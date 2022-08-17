@@ -1,5 +1,4 @@
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/https://github.com/msnakihweb)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/https://www.linkedin.com/in/saifullahnakih//)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='40'>](https://www.facebook.com/https://www.facebook.com/msnakih/)  
-
+(https://www.linkedin.com/in/https://www.linkedin.com/in/saifullahnakih//) 
 ### Hi there 👋, I'm Md.Saifullah Nakih
 #### UI/UX Designer & WordPress Developer
 ![UI/UX Designer & WordPress Developer](https://media-exp1.licdn.com/dms/image/C5616AQHPEhT76kMaNQ/profile-displaybackgroundimage-shrink_200_800/0/1643399911564?e=1666224000&v=beta&t=CWzgA1frpE18fKiiT3BolKkEPr-qE4eYtBCVNy_7YXk)
@@ -16,8 +15,12 @@ Skills: UI/UX / HTML / CSS / JQURERY / BOOTSTRAP / PHP / WORDPRESS
 - 🌱 I’m currently learning Laravel 
 - 👯 I’m looking to collaborate on github 
 
+ [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='40'>](https://www.facebook.com/https://www.facebook.com/msnakih/) 
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/https://github.com/msnakihweb)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>] 
 
 
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=https://github.com/msnakihweb)](https://github.com/ryo-ma/github-profile-trophy)
+
+
+
 
